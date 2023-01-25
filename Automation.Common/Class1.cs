@@ -10,7 +10,7 @@ namespace Automation.Common
     {
         public void Show()
         {
-            Console.WriteLine("Hola modifique el codigo");
+            Console.WriteLine("Hola modifique el codigo 2");
         }
     }
 }
