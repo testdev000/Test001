@@ -8,5 +8,9 @@ namespace Automation.Common
 {
     public class Class1
     {
+        public void Show()
+        {
+            Console.WriteLine("Hola modifique el codigo");
+        }
     }
 }
